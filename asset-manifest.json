@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-employee-data/static/css/main.9345b6e2.css",
+    "main.js": "/react-employee-data/static/js/main.f606697e.js",
+    "index.html": "/react-employee-data/index.html",
+    "main.9345b6e2.css.map": "/react-employee-data/static/css/main.9345b6e2.css.map",
+    "main.f606697e.js.map": "/react-employee-data/static/js/main.f606697e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9345b6e2.css",
+    "static/js/main.f606697e.js"
+  ]
+}
